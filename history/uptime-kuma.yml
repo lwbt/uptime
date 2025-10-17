@@ -1,7 +1,8 @@
+---
 url: https://uptime.astrapia-mermaid.ts.net/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-17T18:35:25.377Z
+status: up
+code: 200
+responseTime: 85
+lastUpdated: 2025-10-17T18:40:14.781Z
 startTime: 2025-10-17T15:22:49.552Z
 generator: Upptime <https://github.com/upptime/upptime>
