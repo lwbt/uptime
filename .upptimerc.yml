@@ -32,7 +32,7 @@ workflowSchedule:
   # uptime: "*/5 * * * *"
   # Once or twice per hour should be enough for my needs.
   uptime: "*/30 * * * *"
-runner: "[self-hosted, linux]"
+runner: "[self-hosted, Linux]"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
