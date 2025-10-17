@@ -28,12 +28,20 @@ workflowSchedule:
   # staticSite: "0 1 * * *"
   # summary: "0 0 * * *"
   # updateTemplate: "0 0 * * *"
+  # NOTE:
+  # Updates are supposed to run once per week, but it runs every day?
+  # https://upptime.js.org/docs/triggers/#update-template-ci
+  # Try to run it during the holidays while to keep noise to a minimum while I
+  # try to figure out how the resolve issues that require editing template
+  # code.
+  updateTemplate: "0 14 25-31 12 6"
   # updates: "0 3 * * *"
   # uptime: "*/5 * * * *"
   # Once or twice per hour should be enough for my needs.
   uptime: "*/30 * * * *"
-# runner: "[self-hosted, Linux]"
-runner: '[self-hosted, linux, X64, futro]'
+# TODO:
+# runner: "[self-hosted, Linux, X64]"
+# runner: '[self-hosted, linux, X64, futro]'
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
