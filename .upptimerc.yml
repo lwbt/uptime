@@ -42,6 +42,7 @@ workflowSchedule:
 # TODO:
 # runner: "[self-hosted, Linux, X64]"
 # runner: '[self-hosted, linux, X64, futro]'
+runner: '[self-hosted, linux, X64]'
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
