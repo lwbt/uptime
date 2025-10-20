@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime.astrapia-mermaid.ts.net.ico",
     "slug": "uptime-kuma",
     "status": "down",
-    "uptime": "95.24%",
+    "uptime": "95.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.24%",
-    "uptimeMonth": "95.24%",
-    "uptimeYear": "95.24%",
+    "uptimeWeek": "95.37%",
+    "uptimeMonth": "95.37%",
+    "uptimeYear": "95.37%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-19": 0,
       "2025-10-17": 159
     }
   }
