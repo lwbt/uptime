@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 119,
-    "timeWeek": 126,
-    "timeMonth": 126,
-    "timeYear": 126,
+    "time": 117,
+    "timeDay": 70,
+    "timeWeek": 117,
+    "timeMonth": 117,
+    "timeYear": 117,
     "dailyMinutesDown": {}
   },
   {
@@ -23,17 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime.astrapia-mermaid.ts.net.ico",
     "slug": "uptime-kuma",
     "status": "down",
-    "uptime": "95.37%",
+    "uptime": "96.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.37%",
-    "uptimeMonth": "95.37%",
-    "uptimeYear": "95.37%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "96.68%",
+    "uptimeYear": "96.68%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-10-17": 159
     }
   }
